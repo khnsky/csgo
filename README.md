@@ -1,2 +1,0 @@
-# csgo
-csgo stuff
